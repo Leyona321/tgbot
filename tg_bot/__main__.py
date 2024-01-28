@@ -26,7 +26,7 @@ you can find what makes me tick [here](github.com/PaulSonOfLars/tgbot)!
 
 Feel free to submit pull requests on github, or to contact my support group, @MarieSupport, with any bugs, questions \
 or feature requests you might have :)
-I also have a news channel, @MarieNews for announcements on new features, downtime, etc.
+I also have a news channel, @BLINKSSTVOFFC_info for announcements on new features, downtime, etc.
 
 You can find the list of available commands with /help.
 
@@ -42,7 +42,7 @@ the things I can help you with.
  - /start: start the bot
  - /help: PM's you this message.
  - /help <module name>: PM's you info about that module.
- - /donate: information about how to donate!
+ - /Admins: Admin account 
  - /settings:
    - in PM: will send you your settings for all supported modules.
    - in a group: will redirect you to pm, with all that chat's settings.
